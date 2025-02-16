@@ -1,4 +1,3 @@
-# Amazon-clone
 Amazon Clone Project
 
 Introduction
